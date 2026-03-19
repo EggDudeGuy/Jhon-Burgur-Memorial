@@ -30,10 +30,10 @@
         }
 
         .story-box {
-            border: 2px solid black;     /* outline */
+            border: 2px #ff9000;         /* outline */
             border-radius: 15px;         /* rounded corners */
             padding: 15px;               /* space inside box */
             width: fit-content;          /* makes it resize to content */
-            max-width: 6000px;            /* prevents it from getting too wide */
+            max-width: 6000px;           /* prevents it from getting too wide */
             background-color: #d46e00;
         }
