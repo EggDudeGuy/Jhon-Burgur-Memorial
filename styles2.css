@@ -28,3 +28,11 @@
         p, a {
             text-align: center;
         }
+
+        .story-box {
+            border: 2px solid black;     /* outline */
+            border-radius: 15px;         /* rounded corners */
+            padding: 15px;               /* space inside box */
+            width: fit-content;          /* makes it resize to content */
+            max-width: 600px;            /* prevents it from getting too wide */
+        }
