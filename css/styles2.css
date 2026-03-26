@@ -25,12 +25,16 @@
             text-align: center;
         }
 
-        p, a {
+        p, {
             text-align: center;
         }
 
+        a {
+           text-align: center;
+        }
+
         .story-box {
-            border: 2px #ff9000;         /* outline */
+            border: 5px #ff9000;         /* outline */
             border-radius: 15px;         /* rounded corners */
             padding: 15px;               /* space inside box */
             width: fit-content;          /* makes it resize to content */
