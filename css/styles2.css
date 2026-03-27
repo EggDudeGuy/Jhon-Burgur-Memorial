@@ -29,10 +29,6 @@
             text-align: center;
         }
 
-        a {
-           text-align: center;
-        }
-
         .story-box {
             border: 5px #ff9000;         /* outline */
             border-radius: 15px;         /* rounded corners */
